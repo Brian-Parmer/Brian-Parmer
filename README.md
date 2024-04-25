@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brian-Parmer
 - 👀 I’m interested in Data Science, AI, and Machine Learning
-- 🌱 I’m currently learning MS Data Science
+- 🌱 I’m currently learning MS Data Science/MBA
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me @ https://www.linkedin.com/in/brian-parmer/
 - 😄 Pronouns: He/Him
